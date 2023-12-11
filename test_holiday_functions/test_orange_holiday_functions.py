@@ -65,8 +65,8 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # Varun
-
-
+print(naughty_or_nice(6, 5)) # should return TRUE becuase student is in 6th form with five demrits and 6th formers are always nice
+print(brings_figgy_pudding(6, 5, 3, 8))  # the student meets the conditon of being nice and being in the holiday spirit so the result should return TRUE
 
 # Will
 
